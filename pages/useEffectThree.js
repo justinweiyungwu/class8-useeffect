@@ -1,6 +1,6 @@
 import { useEffect, useState} from "react"
 import Link from "next/link"
-import styles from "../styles/UseEffectThree.module.css"
+import styles from "../styles/useEffectThree.module.css"
 export default function UseEffectThree () {
 
     const [number, setNumber] = useState(0);
