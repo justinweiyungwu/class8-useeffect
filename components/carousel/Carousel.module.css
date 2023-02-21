@@ -1,0 +1,19 @@
+.main {
+    display: grid;
+    justify-content: center;
+    
+}
+
+
+.carousel {
+    display: grid;
+    justify-content: center;
+
+}
+
+.pointer {
+    display: flex;
+    gap: 15em;
+   align-items: center;
+
+}

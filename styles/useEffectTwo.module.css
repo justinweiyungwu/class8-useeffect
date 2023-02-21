@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 75vh;
+    background-color: var(--deepblue);
+    font-family: var(--font-mono);
+    gap: 20em;
+ }
+ 
